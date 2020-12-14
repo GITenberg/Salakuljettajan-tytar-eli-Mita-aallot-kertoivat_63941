@@ -1,0 +1,39 @@
+_repo: Salakuljettajan-tytar-eli-Mita-aallot-kertoivat_63941
+_version: 0.0.1
+alternative_title: Smugglarens dotter, eller, Hvad vågorna sade. Finnish
+contributor:
+  translator:
+    agent_name: Bärlund, Johan
+    aliases:
+    - Bärlund, Jukka
+    - Barlund, Johan
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '52680'
+    url: http://www.gutenberg.org/2009/agents/52680
+    wikipedia: https://fi.wikipedia.org/wiki/Johannes_(Jukka)_B%C3%A4rlund
+creator:
+  author:
+    agent_name: Nonnen, Emily
+    birthdate: 1812
+    deathdate: 1905
+    gutenberg_agent_id: '52679'
+    url: http://www.gutenberg.org/2009/agents/52679
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Emily_Nonnen
+    - https://sv.wikipedia.org/wiki/Emily_Nonnen
+description: ''
+gutenberg_issued: '2020-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63941'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Sweden -- Fiction'
+- GITenberg
+title: Salakuljettajan tytär eli Mitä aallot kertoivat
+url: http://www.gutenberg.org/ebooks/63941
